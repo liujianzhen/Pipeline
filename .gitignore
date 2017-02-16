@@ -1,0 +1,9 @@
+##  ignore these dir or files  ##
+/target/
+.classpath
+.project
+.settings
+/bin/
+/.idea/
+/.settings/
+.tern-project
